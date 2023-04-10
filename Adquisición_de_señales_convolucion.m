@@ -137,11 +137,3 @@ C
  subplot(3,2,4),stem(vrt_filtro_medio_hn), title ('H(n)filtrada'),xlabel('n'),ylabel('H(n)')
  subplot(3,2,5),stem(C), title ('Convolucion'),xlabel('n'),ylabel('C(n)')
 
- %ALONDRA MARIA RODRIGUEZ VAZQUEZ UP190196 MTR07D 01/Febrero/2022
-%OBSERVACIÓN: Logré identificar que si el vector es de valores infinitos
-%podemos tener una potencia pero si la longitud del vector es finita la potencia es igual a 0. 
-%CONCLUSIÓN: La operación convolución es una operación matemática en la que
-%tomamos dos señales para producir una señal final, este resultado lo tomamos como una tercera señal.
-%Esto es importante ya que, esto se puede utilizar para conocer la salida de un sistema 
-% tomando en cuenta una señal de entrada y la respuesta del sistema al
-% impulso.
