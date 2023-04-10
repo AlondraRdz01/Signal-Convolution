@@ -6,7 +6,7 @@ Adquisición de señales | Filtro medio y convolución de señales
 
 * [1. Intro](https://github.com/AlondraRdz01/Signal-Convolution/blob/main/README.md#1intro)
 * [2. Qúe construí](https://github.com/AlondraRdz01/Signal-Convolution/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del Proyecto](#)
+* [3. Objetivo del Proyecto](https://github.com/AlondraRdz01/Signal-Convolution/blob/main/README.md#3-objetivo-del-proyecto)
 
 
 ****
